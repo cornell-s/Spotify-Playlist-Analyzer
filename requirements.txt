@@ -1,0 +1,4 @@
+spotipy
+streamlit
+plotly 
+python-dotenv
